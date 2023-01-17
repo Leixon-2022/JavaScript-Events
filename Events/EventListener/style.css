@@ -1,0 +1,17 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(102, 7, 121);
+    margin:  auto;
+    padding: 20vh;
+    text-align: center;
+}
+
+button{
+    color: rgb(0, 11, 11);
+    background-color: rgb(199, 212, 23);
+    padding: 1.5vh 3vh;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+
+}

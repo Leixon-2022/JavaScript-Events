@@ -1,0 +1,11 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    margin:  auto;
+    padding: 20vh;
+    text-align: center;
+}
+
+#id {
+    color: cornflowerblue;
+}
